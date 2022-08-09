@@ -7,6 +7,6 @@ In this depository there is also a .docx I wrote that describes the code writen 
 
 Running this aplication yarn package manager or something similar is necesery.
 
-To run this project first you have to enter into the apis and app folders seperatly and using the terminal run the yarn command "yarn install".
+To run this project first you have to enter into the apis and app folders seperatly and using the terminal run the yarn command "yarn".
 In thee apis/development.env change the port number to 4000.
 Using the terminal in the apis and app folder start the application by running the command "yarn start" simultaniously and enter the localhost link that appears in the app terminal.
